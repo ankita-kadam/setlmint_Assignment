@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Table Data Scraper",
+    "version": "1.0",
+    "description": "Scrapes table data and saves it as a CSV.",
+    "permissions": ["activeTab", "scripting", "downloads"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_title": "Scrape Table"
+  
+  }
+
+}
+  
